@@ -24,5 +24,8 @@ check_tracked_files.js
 upload_github.js
 rebuild_repo.js
 remove_large_files.js
+list_files.js
+push_updates.js
+
 
 
