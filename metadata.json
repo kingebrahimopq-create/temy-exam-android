@@ -1,0 +1,6 @@
+{
+  "name": "Temy",
+  "description": "منصة بنوك أسئلة جامعية تفاعلية مدعومة بشروحات مرئية تفصيلية مبسطة مع عدادات ديناميكية ومكتبة متكاملة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
